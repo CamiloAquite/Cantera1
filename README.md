@@ -1,4 +1,4 @@
 
 # Cantera1  
 
-This repository contains the quarry 1 workshop 1 for admission to sokfa
+this repository contains all the workshops of the quarry 1 for Sofka entry
